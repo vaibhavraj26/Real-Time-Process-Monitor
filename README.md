@@ -33,6 +33,14 @@ A Python-based process monitoring application that provides real-time informatio
   - Column separators for better readability
   - Bold headers and proper alignment
 
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/Screenshot%202026-05-05%20011411.png" alt="Main UI" width="48%" style="display:inline-block; margin-right:1%; vertical-align:top;"/>
+  <img src="assets/screenshots/Screenshot%202026-05-05%20011450.png" alt="Visualization Tab" width="48%" style="display:inline-block; vertical-align:top;"/>
+</p>
+
 ## Requirements
 
 - Python 3.6 or higher
